@@ -9,3 +9,5 @@ Independent Researcher and full time self-learner.
 Moral authority against lazyness and security seakers.
 
 Out of comfort zone and out of the box explorer.
+
+You can visit more on www.igrosman.com
