@@ -2,7 +2,7 @@
 title: "Home"
 author: "Iulia Grosman"
 date: "24 septembre 2018"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
