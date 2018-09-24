@@ -1,5 +1,5 @@
 ---
-title: "Happy"
+title: "Home"
 author: "Iulia Grosman"
 date: "24 septembre 2018"
 output: html_document
